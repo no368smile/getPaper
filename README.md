@@ -1,6 +1,6 @@
 # getPaper
 
-Download all papers from CVF for a selected conference (such as CVPR 2018).
+Download all papers from CVF for a selected conference (such as CVPR 2018, ECCV 2018 etc...).
 
 # System requirement
 - Ubuntu 18.04   
