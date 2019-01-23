@@ -2,7 +2,7 @@
 
 #version: 1.0
 #author: Yan
-#contact: yanyanmu@cim.mcgill.ca
+#contact: no368smile@hotmail.com
 #file: getPaper.py
 
 import os
