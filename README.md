@@ -17,5 +17,5 @@ Get repo to local:
 Create an enveriment in Anaconda3:
 
 
-Run code:
+Run code:  
 python3 getPaper.py
