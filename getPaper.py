@@ -124,7 +124,7 @@ class PaperDownloader:
 
 def _main():
    kw = ['CVPR2018', 'ECCV2018', 'ICCV2017', 'CVPR2017']
-   pd = PaperDownloader(kw[0])
+   pd = PaperDownloader(kw[1])
    #pd = PaperDownloader(kw[0], init=False)
    pd.download_paper()
    pd.get_pdf_url()
