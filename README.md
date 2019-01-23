@@ -1,6 +1,6 @@
 # getPaper
 
-getPaper.py
+Download all papers from CVF for a selected conference (such as CVPR 2018).
 
 # system requirement
 Ubuntu 18.04   
